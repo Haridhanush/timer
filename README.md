@@ -1,1 +1,1 @@
-# timer
+# Timer-application
